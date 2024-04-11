@@ -1,0 +1,197 @@
+/* Reset default margin and padding for all elements */
+body {
+  margin: 0px;
+  padding: 0px;
+  background-image: url(poster.jpg);
+  background-size: 102% 100%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+/* Style for paragraph elements */
+p {
+  position: fixed;
+  text-align: center;
+  color: rgb(36, 36, 120);
+  font-weight: bold;
+  left: 40%;
+  top: 10px;
+  font-family: sans-serif;
+  font-size: 16.5px;
+}
+
+/* Style for container */
+.container {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  height: 100vh;
+  justify-content: flex-end;
+  position: relative;
+}
+
+/* Style for h1 headings */
+h1 {
+  margin: 0;
+  margin-bottom: -172px;
+  color: white;
+  font-family: sans-serif;
+  font-size: 24px;
+  letter-spacing: 9px;
+}
+
+/* Style for spacing elements */
+.space1,
+.space2,
+.space3 {
+  margin-right: 20px;
+}
+
+/* Style for styled-name */
+.styled-name {
+  color: white;
+  text-align: center;
+  top: 10px;
+  position: relative;
+  margin-bottom: -42px;
+  color: rgb(152, 208, 208);
+}
+
+/* Styles for name parts in h2 */
+h2 .name-part1 {
+  font-family: Arial, sans-serif;
+  font-size: 7px;
+  letter-spacing: 2px;
+  margin-right: 15px;
+  margin-left: 3%;
+}
+
+/* Styles for name parts in h2 */
+h2 .name-part2 {
+  font-family: Arial, sans-serif;
+  font-size: 7px;
+  letter-spacing: 2px;
+  margin-right: 70px;
+}
+
+/* Styles for name parts in h2 */
+h2 .name-part3 {
+  font-family: Arial, sans-serif;
+  font-size: 7px;
+  letter-spacing: 2px;
+  margin-right: 70px;
+}
+
+/* Styles for name parts in h2 */
+h2 .name-part4 {
+  font-family: Arial, sans-serif;
+  font-size: 7px;
+  letter-spacing: 2px;
+  margin-right: 70px;
+}
+
+/* Styles for name parts in h2 */
+h2 .name-part5 {
+  font-family: Arial, sans-serif;
+  font-size: 7px;
+  letter-spacing: 2px;
+  margin-right: 70px;
+}
+
+/* Styles for name parts in h2 */
+h2 .name-part6 {
+  font-family: Arial, sans-serif;
+  font-size: 7px;
+  letter-spacing: 2px;
+  margin-right: 70px;
+}
+
+/* Styles for name parts in h2 */
+h2 .name-part7 {
+  font-family: Arial, sans-serif;
+  font-size: 7px;
+  letter-spacing: 2px;
+  margin-right: 70px;
+}
+
+/* Style for styled-name1 */
+.styled-name1 {
+  color: white;
+  text-align: center;
+  top: 25px;
+  position: relative;
+  font-weight: 100%;
+  color: rgb(152, 208, 208);
+}
+
+/* Styles for name parts in h3 */
+h3 .name-part1 {
+  font-family: Arial, sans-serif;
+  font-size: 15px;
+  letter-spacing: 2px;
+  margin-right: 20px;
+}
+
+/* Styles for name parts in h3 */
+h3 .name-part2 {
+  font-family: Arial, sans-serif;
+  font-size: 15px;
+  letter-spacing: 2px;
+  margin-right: 20px;
+}
+
+/* Styles for name parts in h3 */
+h3 .name-part3 {
+  font-family: Arial, sans-serif;
+  font-size: 15px;
+  letter-spacing: 2px;
+  margin-right: 20px;
+}
+
+/* Styles for name parts in h3 */
+h3 .name-part4 {
+  font-family: Arial, sans-serif;
+  font-size: 15px;
+  letter-spacing: 2px;
+  margin-right: 20px;
+}
+
+/* Styles for name parts in h3 */
+h3 .name-part5 {
+  font-family: Arial, sans-serif;
+  font-size: 15px;
+  letter-spacing: 2px;
+  margin-right: 20px;
+}
+
+/* Styles for name parts in h3 */
+h3 .name-part6 {
+  font-family: Arial, sans-serif;
+  font-size: 15px;
+  letter-spacing: 2px;
+  margin-right: 20px;
+}
+
+/* Styles for name parts in h3 */
+h3 .name-part7 {
+  font-family: Arial, sans-serif;
+  font-size: 15px;
+  letter-spacing: 2px;
+  margin-right: 20px;
+}
+
+/* Style for h4 headings */
+h4 {
+  text-align: center;
+  color: grey;
+  margin-bottom: 80px;
+}
+
+/* Style for h5 headings with class paragraph-container */
+h5.paragraph-container {
+  text-align: center;
+  margin-bottom: 30px;
+  color: grey;
+  font-weight: 30%;
+  font-size: x-small;
+}
